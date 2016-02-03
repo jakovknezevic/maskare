@@ -1,0 +1,1 @@
+print("U 10h idemo u centar, a u 11h se vracamo nazad te nakon toga idemo na pivu u kafic.")
